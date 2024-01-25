@@ -6,6 +6,9 @@ Bem-vindo ao repositório da API - Books Estore! Este projeto backend atua como 
 Para mais informações sobre o Frontend entre neste repositório: 
 https://github.com/Edilainecsilva/angular-booksestore-desafio
 
+## Vídeo do projeto
+  - [LINK do video](https://www.youtube.com/watch?v=JbI179rQjo4).
+
 ## Pré-requisitos
 
 Antes de começar, as seguintes ferramentas devem estar instaladas em seu sistema:
